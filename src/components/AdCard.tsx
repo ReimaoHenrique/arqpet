@@ -24,9 +24,6 @@ export default function AdCard({ product }: AdCardProps) {
     setTimeout(() => setAdded(false), 1500);
   };
 
-  const cardBg =
-    theme === "dark" ? "bg-gray-800 text-white" : "bg-black text-white";
-
   return (
     <Link
       href={`/ads/${product.id}`}
