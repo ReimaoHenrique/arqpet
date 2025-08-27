@@ -1,0 +1,13 @@
+{
+  "id": "another-product",
+  "title": "Comedouro Automático",
+  "photoUrl": "/images/comedouro.jpeg",
+  "photoAds": [],
+  "category": "industrial",
+  "price": 249.9,
+  "description": "Comedouro automático para cães e gatos, com timer e controle de porção.",
+  "stock": 10,
+  "themeColor": "#FFA500",
+  "rating": 4.9,
+  "shipping": 0
+}

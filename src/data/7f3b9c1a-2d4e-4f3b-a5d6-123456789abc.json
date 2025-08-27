@@ -1,0 +1,18 @@
+{
+  "id": "7f3b9c1a-2d4e-4f3b-a5d6-123456789abc",
+  "title": "Caminha Pet Luxo",
+  "photoUrl": "/images/cama.webp",
+  "photoAds": [
+    "/images/ads.jpeg",
+    "/images/ads2.jpeg",
+    "/images/ads3.jpeg",
+    "/images/ads4.jpeg"
+  ],
+  "category": "inteligente",
+  "price": 199.9,
+  "description": "Caminha premium, feita com materiais sustentáveis e design ergonômico para o máximo conforto do seu pet.",
+  "stock": 15,
+  "themeColor": "#FF6F00",
+  "rating": 4.8,
+  "shipping": 0
+}
